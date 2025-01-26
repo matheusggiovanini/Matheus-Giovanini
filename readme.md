@@ -1,4 +1,4 @@
-# Hello, i'm Matheus Giuliano Giovanini!
+# Hello, i'm Matheus Giuliano Giovanini! 
 
 I'm a Senior Backup Analyst at **[Proativa Info](https://proativainfo.com.br)**.
 
@@ -13,7 +13,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Veeam Community](https://img.shields.io/badge/Veeam%20Community-backup)](https://community.veeam.com/members/matheusgiovanini-13586)
 
 
-## 💻 Skills
+## 💻 Technical Skills
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
@@ -24,16 +24,28 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![TSM](https://img.shields.io/badge/TSM-black)
 ![TSM SPP](https://img.shields.io/badge/TSM%20SPP-white)
 ![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)
-![Tape Library](https://img.shields.io/badge/Tape%20Library-gray)
+![DR](https://img.shields.io/badge/DR-white)
+![TesteRestore](https://img.shields.io/badge/TesteRestore-lightblue)
+
+![Storage](https://img.shields.io/badge/Storage-Random)
+![Library](https://img.shields.io/badge/Library-gray)
+![Tape](https://img.shields.io/badge/Tape-yellow)
+![HBA](https://img.shields.io/badge/HBA-blue)
+![iSCSI](https://img.shields.io/badge/iSCSI-black)
+![FC](https://img.shields.io/badge/FC-red)
+
 ![VMWare](https://img.shields.io/badge/VMWare-lightblue)
 ![Hyper-v](https://img.shields.io/badge/Hyperv-blue)
+![Nutanix](https://img.shields.io/badge/Nutanix-purple)
 ![AWS](https://img.shields.io/badge/AWS-red)
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
-![Nutanix](https://img.shields.io/badge/Nutanix-purple)
+![Google Cloud](https://img.shields.io/badge/Google-gray)
+
+![Windows](https://img.shields.io/badge/AIX-blue)
 ![rhel](https://img.shields.io/badge/Redhat-red)
+![Ubutu](https://img.shields.io/badge/Ubunto-purple)
 ![AIX](https://img.shields.io/badge/AIX-brown)
-![DR](https://img.shields.io/badge/DR-white)
-![TesteRestore](https://img.shields.io/badge/TesteRestore-yellow)
+
 
 ## 🚀 Certifications & Badges
 
