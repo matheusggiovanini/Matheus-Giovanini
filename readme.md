@@ -26,9 +26,14 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)
 ![Tape Library](https://img.shields.io/badge/Tape%20Library-gray)
 ![VMWare](https://img.shields.io/badge/VMWare-lightblue)
+![Hyper-v](https://img.shields.io/badge/Hyperv-blue)
 ![AWS](https://img.shields.io/badge/AWS-red)
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
 ![Nutanix](https://img.shields.io/badge/Nutanix-purple)
+![rhel](https://img.shields.io/badge/Redhat-red)
+![AIX](https://img.shields.io/badge/AIX-brown)
+![DR](https://img.shields.io/badge/DR-white)
+![TesteRestore](https://img.shields.io/badge/TesteRestore-yellow)
 
 ## 🚀 Certifications & Badges
 
