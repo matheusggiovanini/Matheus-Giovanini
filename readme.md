@@ -1,5 +1,8 @@
 # Hello, i'm Matheus Giuliano Giovanini! 
 
+<!--
+**matuis-bit/matuis-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 I'm a Senior Backup Analyst at **[Proativa Info](https://proativainfo.com.br)**.
 
 As a Backup Analyst with over 4 years of experience, I have developed a deep expertise in designing, implementing, and optimizing data protection strategies across various environments. I specialize in industry-leading backup solutions such as Veeam, TSM, and Data Protector, and have a strong track record of leading successful backup projects from conception through to execution.
@@ -12,8 +15,6 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 [![Veeam Community](https://img.shields.io/badge/Veeam%20Community-backup)](https://community.veeam.com/members/matheusgiovanini-13586)
 
-<!--
-**matuis-bit/matuis-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## 💻 Technical Skills
 
