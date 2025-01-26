@@ -11,12 +11,8 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 
+
 ## 🚀💻 Skills
-<p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="60" title="Veeam Specialist">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="30" title="TSM Specialist">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="60" title="Virtualizer">
-</p>
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
@@ -34,3 +30,12 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Nutanix](https://img.shields.io/badge/Nutanix-purple)
 
 ## 🚀💻 Certifications
+
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="60" title="Veeam Specialist">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="30" title="TSM Specialist">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="60" title="Virtualizer">
+</p>
+
+![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Veeam%20Backup-backup)
+![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Veeam%20Backup-backup)
