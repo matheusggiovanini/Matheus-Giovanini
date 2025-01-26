@@ -41,17 +41,15 @@ My passion for backup systems and data protection drives my continuous efforts t
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cybersecurity_2024.png?raw=true" width="200" title="Technical_Sales_Cybersecurity_2024">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cloudservice_2024.png?raw=true" width="200" title="Technical_Sales_Cloudservice_2024">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Sales_Professional_CloudService_2024.png?raw=true" width="200" title="Sales_Professional_CloudService_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Sales_Professional_Cybersecurity_2024.png?raw=true" width="200" title="Sales_Professional_Cybersecurity_2024">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
-  
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_CloudService_2024.png?raw=true" width="200" title="Professional_CloudService_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_PublicCloud_2024.png?raw=true" width="200" title="Professional_PublicCloud_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_SaaS_2024.png?raw=true" width="200" title="Professional_SaaS_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cybersecurity_2024.png?raw=true" width="200" title="Technical_Sales_Cybersecurity_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cloudservice_2024.png?raw=true" width="200" title="Technical_Sales_Cloudservice_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Sales_Professional_CloudService_2024.png?raw=true" width="200" title="Sales_Professional_CloudService_2024">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Technical_Ransoware_2023.png?raw=true" width="200" title="Technical_Ransoware_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Technical_ContainerProtection_2023.png?raw=true" width="200" title="Technical_ContainerProtection_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Technical_MS365_2023.png?raw=true" width="200" title="Technical_MS365_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Technical_MS365Protection_2023.png?raw=true" width="200" title="Technical_MS365Protection_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VMSP_SalesProfessional_2022.png?raw=true" width="200" title="VMSP_SalesProfessional_2022">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VMTSP_2022.png?raw=true" width="200" title="VMTSP_2022">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/SalesProfessional_2021.png?raw=true" width="200" title="SalesProfessional_2021">
 </p>
 
 
