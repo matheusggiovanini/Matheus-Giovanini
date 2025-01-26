@@ -13,11 +13,9 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ## 🚀💻 Skills
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.svg?raw=true" width="60" title="Veeam Specialist">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/redhat.svg?raw=true" width="60" title="Redhat">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.svg?raw=true" width="60" title="Virtualizer">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/icloud.svg?raw=true" width="60" title="Public Clouds">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/icloud.svg?raw=true" width="60" title="Cloud">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="60" title="Veeam Specialist">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="30" title="TSM Specialist">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="60" title="Virtualizer">
 </p>
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
@@ -35,4 +33,4 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
 ![Nutanix](https://img.shields.io/badge/Nutanix-purple)
 
-## 🚀💻 Success Cases
+## 🚀💻 Certifications
