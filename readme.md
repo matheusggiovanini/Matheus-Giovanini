@@ -12,7 +12,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 
 
-## 🚀💻 Skills
+## 💻 Skills
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
@@ -29,18 +29,27 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
 ![Nutanix](https://img.shields.io/badge/Nutanix-purple)
 
-## 🚀💻 Certifications
+## 🚀 Certifications & Badges
 
-![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/SPP-blue)
+![Veeam](https://img.shields.io/badge/Veeam-backup)
 <p align="center">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
 </p>
 
-
-
-![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Introduction%20IBM%20SPP-blue)
+![Veeam Community](https://img.shields.io/badge/VeeamCommunity-blue)
 <p align="center">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
+</p>
+
+![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/TSM-black)
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
+</p>
+
+![VMWare ](https://img.shields.io/badge/VMWare-lightblue)
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VTSP.png?raw=true" width="200" title="TSM Cert">
 </p>
