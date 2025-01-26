@@ -1,7 +1,8 @@
 # Hello, i'm Matheus Giuliano Giovanini! 
 
 <!--
-**matuis-bit/matuis-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**matuis-bit/Matheus-Giovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 I'm a Senior Backup Analyst at **[Proativa Info](https://proativainfo.com.br)**.
 
