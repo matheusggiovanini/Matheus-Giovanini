@@ -12,6 +12,13 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 
 ## 🚀💻 Skills
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.svg?raw=true" width="60" title="Veeam Specialist">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/redhat.svg?raw=true" width="60" title="Redhat">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.svg?raw=true" width="60" title="Virtualizer">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/icloud.svg?raw=true" width="60" title="Public Clouds">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/icloud.svg?raw=true" width="60" title="Cloud">
+</p>
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
