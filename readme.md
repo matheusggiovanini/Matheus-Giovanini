@@ -31,11 +31,16 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ## 🚀💻 Certifications
 
+![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/SPP-blue)
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="60" title="Veeam Specialist">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="30" title="TSM Specialist">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="60" title="Virtualizer">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
 </p>
 
-![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Veeam%20Backup-backup)
-![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Veeam%20Backup-backup)
+
+
+![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/Introduction%20IBM%20SPP-blue)
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
+</p>
