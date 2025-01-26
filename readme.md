@@ -1,4 +1,4 @@
-# I'm [Matheus Giovanini](https://github.com/matuis-bit) ![maothanospequena](https://github.com/user-attachments/assets/5b63f57f-2178-4e9b-95f7-cfc530524d9a)
+# I'm [Matheus Giovanini](https://github.com/matuis-bit) 
 
 
 
