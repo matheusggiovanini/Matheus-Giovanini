@@ -15,10 +15,17 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
-![Veeam AWS](https://img.shields.io/badge/Veeam%20AWS-red)
 ![Veeam Offiec365](https://img.shields.io/badge/Veeam%20Office365-white)
+![Veeam AWS](https://img.shields.io/badge/Veeam%20AWS-red)
+![Veeam Azure](https://img.shields.io/badge/Veeam%20Azure-darkblue)
+![Veeam Nutanix](https://img.shields.io/badge/Veeam%20Nutanix-purple)
 ![TSM](https://img.shields.io/badge/TSM-black)
-![TSM SPP](https://img.shields.io/badge/TSM%20SPP-black)
+![TSM SPP](https://img.shields.io/badge/TSM%20SPP-white)
 ![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)
-![VMWare](https://img.shields.io/badge/Veeam%20Office365-white)
 ![Tape Library](https://img.shields.io/badge/Tape%20Library-gray)
+![VMWare](https://img.shields.io/badge/VMWare-lightblue)
+![AWS](https://img.shields.io/badge/AWS-red)
+![Azure](https://img.shields.io/badge/Azure-darkblue)
+![Nutanix](https://img.shields.io/badge/Nutanix-purple)
+
+## 🚀💻 Success Cases
