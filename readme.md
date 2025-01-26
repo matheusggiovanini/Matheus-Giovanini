@@ -32,18 +32,35 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ## 🚀 Certifications & Badges
 
-![Veeam](https://img.shields.io/badge/Veeam-backup)
+![Veeam](https://img.shields.io/badge/VeeamCertifications-backup)
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_CloudService_2024.png?raw=true" width="200" title="Professional_CloudService_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_PublicCloud_2024.png?raw=true" width="200" title="Professional_PublicCloud_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_SaaS_2024.png?raw=true" width="200" title="Professional_SaaS_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cybersecurity_2024.png?raw=true" width="200" title="Technical_Sales_Cybersecurity_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cloudservice_2024.png?raw=true" width="200" title="Technical_Sales_Cloudservice_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Sales_Professional_CloudService_2024.png?raw=true" width="200" title="Sales_Professional_CloudService_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
+  
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_CloudService_2024.png?raw=true" width="200" title="Professional_CloudService_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_PublicCloud_2024.png?raw=true" width="200" title="Professional_PublicCloud_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_SaaS_2024.png?raw=true" width="200" title="Professional_SaaS_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cybersecurity_2024.png?raw=true" width="200" title="Technical_Sales_Cybersecurity_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Technical_Sales_Cloudservice_2024.png?raw=true" width="200" title="Technical_Sales_Cloudservice_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Sales_Professional_CloudService_2024.png?raw=true" width="200" title="Sales_Professional_CloudService_2024">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/RansowareDR_2023.png?raw=true" width="200" title="RansowareDR_2023">
 </p>
+
 
 ![Veeam Community](https://img.shields.io/badge/VeeamCommunity-blue)
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Univesity_Pro.png?raw=true" width="70" title="Univesity_Pro">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Active_VUG.png?raw=true" width="70" title="Active_VUG">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Discussions_Guardian.png?raw=true" width="70" title="Discussions_Guardian">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Hackthon.png?raw=true" width="70" title="Community_Hackthon">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Univesity_Pro.png?raw=true" width="100" title="Univesity_Pro">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Active_VUG.png?raw=true" width="100" title="Active_VUG">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Discussions_Guardian.png?raw=true" width="100" title="Discussions_Guardian">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Hackthon.png?raw=true" width="100" title="Community_Hackthon">
   
 </p>
 
