@@ -49,8 +49,8 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ![Veeam University](https://img.shields.io/badge/VeeamUniversity-white)
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert1.png?raw=true" width="200" title="TSM Cert">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/IBMSPP_cert.png?raw=true" width="200" title="TSM Cert">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VeeamUniversity_DataPlataform.png?raw=true" width="200" title="University_Data_Plataform">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VeeamUniversity_MS365.png?raw=true" width="200" title="University_MS365">
 </p>
 
 ![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/TSM-black)
